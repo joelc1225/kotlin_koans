@@ -1,6 +1,7 @@
 import koans.util.errorMessage
 import org.junit.Test
 import org.junit.Assert
+import sun.security.krb5.KrbException.errorMessage
 
 class TestNamedArguments {
 
